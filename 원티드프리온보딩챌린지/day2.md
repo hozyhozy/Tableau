@@ -79,8 +79,12 @@
 
 ### Q. “매장명” 별로 “매장운영시간”을 표현하고, 시도를 필터로 걸어 각 시도의 매장 별 운영 시간을 확인해보자
 
-hint: “매장운영시간”은 “영업시작시간”과 “영업종료시간”의 차이를 계산해서 표현하면 되겠죠?
+hint: “매장운영시간”은 “영업시작시간”과 “영업종료시간”의 차이를 계산해서 표현
+
+
 ref1: https://help.tableau.com/current/pro/desktop/ko-kr/functions_functions_date.htm
+
+
 ref2: https://help.tableau.com/current/pro/desktop/ko-kr/functions_functions_date.htm#datepart-%EA%B0%92
 
 
