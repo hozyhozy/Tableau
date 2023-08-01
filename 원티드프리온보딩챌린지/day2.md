@@ -28,7 +28,7 @@
 <img width="232" alt="스크린샷 2023-08-01 오후 6 16 12" src="https://github.com/hozyhozy/Tableau/assets/123252821/4616e1ea-4390-4dd0-a88d-c5b045906439">
 
 
-> ## 질문:  칼로리가 낮고 카페인이 높지 않은 메뉴를 마시고 싶다면?  답은 티바나!
+> 질문:  칼로리가 낮고 카페인이 높지 않은 메뉴를 마시고 싶다면?  답은 티바나!
 
 
 # 3. 계산된 필드 만들기
@@ -51,17 +51,20 @@
 <img width="485" alt="스크린샷 2023-08-01 오후 6 22 29" src="https://github.com/hozyhozy/Tableau/assets/123252821/0ba4cff2-bd5f-4f44-aff0-3d6f307346c3">
 
 
-> 계산될 필드의 결과가 숫자일 경우 아이콘이 =# 라고 나타남
-
-
 
 <img width="225" alt="image" src="https://github.com/hozyhozy/Tableau/assets/123252821/2b65dd93-c7e3-45c3-acc4-b45ee7c0dde4">
 
 
-> 계산된 필드가 수익성이 있는 것과 없는 것으로 결과를 나타낼때 아이콘은 =Abc라고 나타남
+> 계산될 필드의 결과가 숫자일 경우 아이콘이 =# 라고 나타남
+
+
 
 
 <img width="758" alt="스크린샷 2023-08-01 오후 6 24 11" src="https://github.com/hozyhozy/Tableau/assets/123252821/4200afa7-49b4-4044-b87b-3bc9d1877eb6">
+
+
+> 계산된 필드가 수익성이 있는 것과 없는 것으로 결과를 나타낼때 아이콘은 =Abc라고 나타남
+
 
 
 ### Q. 계산식을 만들어서 평균 카페인 함유량이 80mg 보다 높은 카테고리와 아닌 카테고리를 분류해보자
