@@ -95,5 +95,11 @@ ref2: https://help.tableau.com/current/pro/desktop/ko-kr/functions_functions_dat
 
 
 
+* 필터에 시도를 넣어 선택된 결과값만을 불러올 수 있다
 
+
+<img width="696" alt="스크린샷 2023-08-01 오후 6 40 02" src="https://github.com/hozyhozy/Tableau/assets/123252821/5e883572-25c9-4f71-b72c-ae6fab0cd239">
+
+
+<img width="285" alt="스크린샷 2023-08-01 오후 6 40 18" src="https://github.com/hozyhozy/Tableau/assets/123252821/04e9b919-cf5a-488d-945a-8e1dc83f6c0e">
 
